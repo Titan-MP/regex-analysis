@@ -32,13 +32,13 @@ WHEN I reach the end of the tutorial<br>
 THEN I find a section about the author and a link to the author’s GitHub profile
 
 ## Screenshot
-![app](images/Screenshot%202023-08-23%20at%207.00.23 PM.png)
+![app](images/GistScreenshot1.jpg)
 
-![app](images/Screenshot%202023-08-23%20at%207.00.36 PM.png)
+![app](images/GistScreenshot2.jpg)
 
-![app](images/Screenshot%202023-08-23%20at%207.00.45 PM.png)
+![app](images/GistScreenshot3.jpg)
 
-![app](images/Screenshot%202023-08-23%20at%207.00.57 PM.png)
+![app](images/GistScreenshot4.jpg)
 
 ## Links
 [Github Gist](https://gist.github.com/Titan-MP/af34b272b3a6ca8338fcd48302f5604b)
